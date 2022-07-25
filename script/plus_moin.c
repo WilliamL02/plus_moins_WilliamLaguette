@@ -9,7 +9,7 @@ void plus_moins(int valeur,int choix){
     else if(choix<valeur)
         printf("le nombre est le plus grand.");
     else
-        printf("Bingo!/n");
+        printf("Bingo!\n");
 }
 
 void main(){
